@@ -1,2 +1,2 @@
 # password-manager
-A python based password manager project
+This is a simple password manager application built with python.
